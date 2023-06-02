@@ -1,4 +1,5 @@
 ## Hi there👋
+<br>
 
  
 <p align="center" width="100%">
@@ -7,12 +8,12 @@
 
 ### My name is Giovanni Leopoldo Rozza and I started my journey as backend software developer. Here you can view my main projects, some I made myself,some are results of courses and bootcamps I took and added some personal flavour in the code. My favorite stack is Java/Spring and Angular/TS. Despite I already did some coding with Angular/TS and understand the basics, currently my focus is master Java/Spring framework.
  
-
+<br>
  
-##  My Github badges
+##  :trophy: My Github badges
 [![trophy](https://github-profile-trophy.vercel.app/?username=rgiovann)](https://github.com/ryo-ma/github-profile-trophy)
 
-##  Most used languages
+##  :computer: Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgiovann)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
@@ -41,10 +42,10 @@
 
 
 
-##  Github stats
+## :memo: Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgiovann&show_icons=true&count_private=true)  
 
-##  Github activity graph
+## :bar_chart: Github activity graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-light&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Github Metrics
