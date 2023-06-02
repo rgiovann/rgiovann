@@ -1,12 +1,13 @@
 ## Hi there👋
 
-![main window](https://github.com/rgiovann/image-repo/blob/main/mygithubportfolio.png)
+ 
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/rgiovann/image-repo/blob/main/mygithubportfolio.png"> 
+</p>
 
+### My name is Giovanni Leopoldo Rozza and I started my journey as backend software developer.Here you can view my main projects, some I made myself,some are results of courses and bootcamps I took and added some personal flavour in the code. My favorite stack is Java/Spring and Angular/TS. Despite I already did some coding with Angular/TS and understand the basics,currently my focus is master Java/Spring framework.
+ 
 
-My name is Giovanni Leopoldo Rozza and I started my journey as backend software developer.Here you can view my  
-main projects, some I made myself,some are results of courses and bootcamps I took and added some personal flavour 
-in the code. My favorite stack is Java/Spring and Angular/TS. Despite I already did some coding with Angular/TS  
-and understand the basics,currently my focus is master Java/Spring framework.
  
 ##  My Github badges
 [![trophy](https://github-profile-trophy.vercel.app/?username=rgiovann)](https://github.com/ryo-ma/github-profile-trophy)
@@ -51,7 +52,11 @@ and understand the basics,currently my focus is master Java/Spring framework.
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rgiovann)  
 
-![Profile views](https://gpvc.arturio.dev/rgiovann)  
+![](https://komarev.com/ghpvc/?username=rgiovann)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/giovanni-leopoldo-rozza-7a25a1270/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rgiovann)
 
 <!--
 **rgiovann/rgiovann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
