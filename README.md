@@ -6,7 +6,9 @@
     <img width="100%" src="https://github.com/rgiovann/image-repo/blob/main/mygithubportfolio.png"> 
 </p>
 
-### My name is Giovanni Leopoldo Rozza, and I started my journey as a backend software developer. Here, you can view my main projects, some of which I created myself, while others are the results of courses and bootcamps I have taken, where I added some personal flavor to the code. My favorite stack is Java/Spring and Angular/TS. Although I have already done some coding with Angular/TS and understand the basics, currently, my focus is to master the Java/Spring framework.
+<br>
+
+#### <table><tr><td>My name is Giovanni Leopoldo Rozza, and I started my journey as a backend software developer. Here, you can view my main projects, some of which I created myself, while others are the results of courses and bootcamps I have taken, where I added some personal flavor to the code. My favorite stack is Java/Spring and Angular/TS. Although I have already done some coding with Angular/TS and understand the basics, currently, my focus is to master the Java/Spring framework.</td></tr></table>
  
 <br>
  
