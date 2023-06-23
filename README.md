@@ -47,9 +47,10 @@
 ## :memo: Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgiovann&show_icons=true&count_private=true)  
 
+<!---
 ## :bar_chart: Github activity graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-light&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+--->
 ##  :straight_ruler: Github Metrics
 ![GitHub metrics](https://metrics.lecoq.io/rgiovann)  
 
