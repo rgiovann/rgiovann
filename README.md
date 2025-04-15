@@ -1,14 +1,33 @@
-## Hi there👋
-<br>
+# 👨‍💻 Giovanni Leopoldo Rozza
 
- 
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/rgiovann/image-repo/blob/main/mygithubportfolio.png"> 
-</p>
+🎯 **Backend Developer | Java & Spring Enthusiast | Engineer**
 
-<br>
+Welcome to my GitHub! Here you'll find my main projects — some developed independently, others as part of bootcamps and courses where I added my own touch.
 
-#### <table><tr><td>My name is Giovanni Leopoldo Rozza, and I started my journey as a backend software developer. Here, you can view my main projects, some of which I created myself, while others are the results of courses and bootcamps I have taken, where I added some personal flavor to the code. My favorite stack is Java/Spring and Angular/TS. Although I have already done some coding with Angular/TS and understand the basics, currently, my focus is to master the Java/Spring framework.</td></tr></table>
+I'm currently focused on mastering the **Java/Spring** ecosystem for backend development. I also have (basic) experience with **Angular/TypeScript**, and a strong background in **engineering**, **embedded systems**, and **technical education** — with both national and international experience.
+
+---
+
+💡 **Background Highlights**  
+- Degrees in Electrical Engineering and Production Engineering  
+- Professional experience at Siemens, Nortel Networks, TIM Brasil  
+- International collaboration in Germany adapting embedded software to Brazilian standards  
+- Technical and higher education teaching (UFPR, Bagozzi, SENAI-SC)  
+- Currently pursuing specialization in Java and Spring Boot (UTFPR + Entra21)
+
+---
+
+🚀 **Current Focus**
+- Java EE, Spring Boot, JPA/Hibernate  
+- REST APIs, OAuth2, Docker  
+- Angular (front-end integration)  
+- Software design and best practices
+
+---
+
+📫 **Let’s Connect**  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/giovanni-leopoldo-rozza/) if you'd like to connect, exchange ideas, or know more about my journey!
+
  
 <br>
  
