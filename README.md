@@ -1,6 +1,6 @@
-# 👨‍💻 Giovanni Leopoldo Rozza
+# Giovanni Leopoldo Rozza
 
-🎯 **Backend Developer | Java & Spring Enthusiast | Engineer**
+**Backend Developer | Java & Spring Enthusiast | Engineer**
 
 Welcome to my GitHub! Here you'll find my main projects — some developed independently, others as part of bootcamps and courses where I added my own touch.
 
@@ -8,7 +8,7 @@ I'm currently focused on mastering the **Java/Spring** ecosystem for backend dev
 
 ---
 
-💡 **Background Highlights**  
+**Background Highlights**  
 - Degrees in Electrical Engineering and Production Engineering  
 - Professional experience at Siemens, Nortel Networks, TIM Brasil  
 - International collaboration in Germany adapting embedded software to Brazilian standards  
@@ -17,7 +17,7 @@ I'm currently focused on mastering the **Java/Spring** ecosystem for backend dev
 
 ---
 
-🚀 **Current Focus**
+ **Current Focus**
 - Java EE, Spring Boot, JPA/Hibernate  
 - REST APIs, OAuth2, Docker  
 - Angular (front-end integration)  
