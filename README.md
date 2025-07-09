@@ -16,13 +16,6 @@ At the moment (completion in 2025), I'm enrolled in:
 
 My current learning goals include secure web application development using **Spring Boot**, system observability, DevOps practices, and clean architecture principles (SOLID, KISS, DRY).
 
----
-
-Se quiser uma versão em português ou mista (bilingue), posso adaptar também. Deseja isso?
-
-
----
-
 **Background Highlights**  
 - Degrees in Electrical Engineering and Production Engineering  
 - Professional experience at Siemens, Nortel Networks, TIM Brasil  
