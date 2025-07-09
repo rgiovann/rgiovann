@@ -4,7 +4,7 @@
 
 **Welcome to my GitHub!**
 
-Here you'll find my main projects — some developed independently, others as part of bootcamps and courses where I added my own touch.
+Here you'll find my main projects, some developed independently, others as part of bootcamps and courses where I added my own touch.
 
 I'm currently focused on mastering the **Java/Spring ecosystem for backend development**. I also have basic experience with **Angular/TypeScript**, and a solid background in **engineering, embedded systems**, and **technical education**, with both national and international experience.
 
