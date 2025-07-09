@@ -12,7 +12,7 @@ At the moment (completion in 2025), I'm enrolled in:
 
 * **Entra21 – Java Track**
 * **Postgraduate Program in Java Development** *(UTFPR – EAD)*
-* **+Devs2Blu – DevOps Specialization Track*
+* **+Devs2Blu – DevOps Specialization Track**
 
 My current learning goals include secure web application development using **Spring Boot**, system observability, DevOps practices, and clean architecture principles (SOLID, KISS, DRY).
 
