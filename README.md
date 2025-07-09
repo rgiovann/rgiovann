@@ -1,10 +1,25 @@
 # Giovanni Leopoldo Rozza
 
-**Backend Developer | Java & Spring Enthusiast | Engineer**
+**Backend Developer | DevOps
 
-Welcome to my GitHub! Here you'll find my main projects — some developed independently, others as part of bootcamps and courses where I added my own touch.
+**Welcome to my GitHub!**
 
-I'm currently focused on mastering the **Java/Spring** ecosystem for backend development. I also have (basic) experience with **Angular/TypeScript**, and a strong background in **engineering**, **embedded systems**, and **technical education** — with both national and international experience.
+Here you'll find my main projects — some developed independently, others as part of bootcamps and courses where I added my own touch.
+
+I'm currently focused on mastering the **Java/Spring ecosystem for backend development**. I also have basic experience with **Angular/TypeScript**, and a solid background in **engineering, embedded systems**, and **technical education**, with both national and international experience.
+
+At the moment (completion in 2025), I'm enrolled in:
+
+* **Entra21 – Java Track**
+* **Postgraduate Program in Java Development** *(UTFPR – EAD)*
+* \**+Devs2Blu – DevOps Specialization Track*
+
+My current learning goals include secure web application development using **Spring Boot**, system observability, DevOps practices, and clean architecture principles (SOLID, KISS, DRY).
+
+---
+
+Se quiser uma versão em português ou mista (bilingue), posso adaptar também. Deseja isso?
+
 
 ---
 
