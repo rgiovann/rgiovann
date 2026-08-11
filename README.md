@@ -95,7 +95,7 @@ build, end-to-end TLS. Automated provisioning from zero to running containers vi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgiovann)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :memo: Github stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rgiovann)](https://github.com/stats-organization/github-stats-extended)
 
 ## :straight_ruler: Github Metrics
 ![GitHub metrics](https://metrics.lecoq.io/rgiovann)
