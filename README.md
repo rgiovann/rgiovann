@@ -89,7 +89,7 @@ build, end-to-end TLS. Automated provisioning from zero to running containers vi
 ## 📊 GitHub Stats
 
 ## :trophy: My Github badges
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=rgiovann)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rgiovann&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :computer: Most used languages
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rgiovann)](https://github.com/anuraghazra/github-readme-stats)
