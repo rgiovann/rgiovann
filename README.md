@@ -26,6 +26,7 @@ the projects pinned below reflect where I am today in that transition.
 - **[prompts-customizados-ia](https://github.com/rgiovann/prompts-customizados-ia)** — Curated AI prompts for software development personas (Java, Spring Security, Clean Architecture, Angular). Built for practical daily use.
 - **[gerador_series_temporais_arima](https://github.com/rgiovann/gerador_series_temporais_arima)** — Java application generating ARMA time series models based on Box-Jenkins methodology.
 - **[beecrowd_sql_solutions](https://github.com/rgiovann/beecrowd_sql_solutions)** — Solutions to advanced SQL challenges on Beecrowd.
+- **[+Devs2Blu 2025 Hackaton Project](https://github.com/rgiovann/moredevs2blu-hackaton2025-deslocafacil)** — Corporate mobility system MVP developed for the Hackathon 2025 +Devs2Blu by Blusoft, which manages employee travel for events, training, and onboarding.
 - **[angular-rachid](https://github.com/rgiovann/angular-rachid)** — 
 Group expense splitting app built with modern Angular (standalone components, signals, 
 reactive forms, RxJS, Angular Material). Algorithm ported from a validated Java version. 
