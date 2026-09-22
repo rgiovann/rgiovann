@@ -23,6 +23,7 @@ the projects pinned below reflect where I am today in that transition.
 ## 📌 Featured Projects
 
 - **[spring-config-guard](https://github.com/rgiovann/spring-config-guard)** — Static analysis CLI that catches Spring Boot security misconfigurations (exposed Actuator endpoints, hardcoded credentials, insecure DB/broker transport, CORS wildcards) before deployment. 17 rules, CI-gatable exit code, plus a Spring Cloud Config Server mode. v1.0, Apache 2.0, validated against real-world repositories including Spring Boot itself.
+- **[jobfinder](https://github.com/rgiovann/jobfinder)** — Generates optimized LinkedIn Jobs search URLs: seniority, work mode, and posting-date filters, with automatic exclusion of unwanted seniority levels. Vanilla HTML/CSS/JS, no backend. 38 stars, 6 forks.
 - **[ds-catalog](https://github.com/rgiovann/ds-catalog)** — Spring Security showcase: OAuth2 with PKCE, Keycloak, and Spring Boot 3.x. Covers legacy 2.x auth, password grant, and modern Authorization Code + PKCE flows.
 - **[prompts-customizados-ia](https://github.com/rgiovann/prompts-customizados-ia)** — Curated AI prompts for software development personas (Java, Spring Security, Clean Architecture, Angular). Built for practical daily use.
 - **[gerador_series_temporais_arima](https://github.com/rgiovann/gerador_series_temporais_arima)** — Java application generating ARMA time series models based on Box-Jenkins methodology.
