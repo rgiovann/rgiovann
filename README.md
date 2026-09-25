@@ -23,7 +23,8 @@ AWS environments.
 | Project | Description | Stack |
 |---|---|---|
 | **[spring-config-guard](https://github.com/rgiovann/spring-config-guard)** | Static analysis CLI that catches Spring Boot security misconfigurations (exposed Actuator endpoints, hardcoded credentials, insecure DB/broker transport, CORS wildcards) before deployment. 17 rules, CI-gatable exit code, Spring Cloud Config Server mode. Validated against real-world repositories, including Spring Boot itself. | Java · Spring Boot · CLI |
-| **[DeslocaFácil](https://github.com/rgiovann/moredevs2blu-hackaton2025-deslocafacil)** | Corporate mobility MVP (🏆 4th place, Hackathon +Devs2Blu 2025). Full AWS infrastructure via Terraform (EC2, IAM, SSM), Docker multi-stage build, end-to-end TLS, and automated provisioning from zero to running containers via user-data. | Java 21 · Spring Boot 3.5 · Terraform · AWS · NGINX |
+| **[FiberGuardian](https://github.com/rgiovann/fiberguardian)** | Quality control and traceability for incoming yarn in textile mills (🏆 **3rd place, Blusoft Evolution Labs 2025**). Supplier invoices with PDF upload, lab test reports with real spinning-mill metrics, JasperReports PDFs, and an audit trail. Security built on OWASP guidance: session hardening, CSRF, HTTPS enforcement, and least-privilege roles. Deployed on Azure behind Caddy. | Java 21 · Spring Boot 3.5 · Spring Security · MySQL · Flyway · Azure |
+| **[DeslocaFácil](https://github.com/rgiovann/moredevs2blu-hackaton2025-deslocafacil)** | Corporate mobility MVP (🏆 4th place, Hackathon +Devs2Blu 2025). Full AWS infrastructure via Terraform (EC2, IAM, SSM), Docker multi-stage build, end-to-end TLS, and automated provisioning from zero to running containers via user-data. Built on the FiberGuardian codebase. | Java 21 · Spring Boot 3.5 · Terraform · AWS · NGINX |
 | **[ds-catalog](https://github.com/rgiovann/ds-catalog)** | Spring Security showcase covering legacy 2.x auth, password grant, and modern Authorization Code + PKCE flows with Keycloak. | Spring Boot 3 · OAuth2 · Keycloak |
 | **[angular-rachid](https://github.com/rgiovann/angular-rachid)** | Group expense splitting app with standalone components, signals, reactive forms, and automated tests. Algorithm ported from a validated Java version. [Live demo](https://rgiovann.github.io/angular-rachid/) | Angular · RxJS · Angular Material |
 | **[jobfinder](https://github.com/rgiovann/jobfinder)** ![stars](https://img.shields.io/github/stars/rgiovann/jobfinder?style=flat-square&label=%E2%98%85) | Generates optimized LinkedIn Jobs search URLs with seniority, work mode, and posting-date filters, including automatic exclusion of unwanted seniority levels. No backend. | HTML · CSS · JavaScript |
@@ -78,7 +79,7 @@ AWS environments.
 
 ## 🏆 Awards
 
-- **3rd Place, Blusoft Evolution Labs 2025** (startup pre-incubation): responsible for backend, frontend, and cloud deployment on Azure
+- **3rd Place, Blusoft Evolution Labs 2025** (startup pre-incubation): [FiberGuardian](https://github.com/rgiovann/fiberguardian), textile quality control system. Responsible for backend, frontend, and cloud deployment on Azure
 - **4th Place, Hackathon +Devs2Blu 2025**: [DeslocaFácil](https://github.com/rgiovann/moredevs2blu-hackaton2025-deslocafacil), corporate mobility MVP
 
 ---
